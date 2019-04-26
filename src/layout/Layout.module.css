@@ -1,0 +1,11 @@
+.Content {
+    margin-top: 16px;
+    text-align: center;
+    background-color: rgb(7, 2, 2);
+    color: whitesmoke;
+}
+
+.body {
+    background-color: whitesmoke;
+    text-align: center;
+}

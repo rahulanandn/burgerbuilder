@@ -1,0 +1,11 @@
+.Apps {
+    background-color: whitesmoke;
+}
+
+.input {
+  align-self: centre;
+  width: auto;
+  padding: 14px 40px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
